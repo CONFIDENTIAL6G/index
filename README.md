@@ -1,0 +1,5 @@
+# CONFIDENTIAL 6G
+
+[CONFIDENTIAL6G](https://confidential6g.eu/about-confidential6g/) is a research project that will be based on 3 pillars: post-quantum and privacy-preserving cryptography, confidential computing, and confidential communication.
+
+CONFIDENTIAL6G will develop tools, libraries, and blueprints to ensure confidentiality in 6G. This includes cryptographic enablers as the foundation for building advanced software components, platforms, and applications that enhance secure communication and computing. This will involve using techniques such as secure multi-party computation and federated AI/ML orchestration. The development of future systems will also rely on advanced cryptographic protocols that are resistant to quantum computing attacks, and formal security proofs to ensure the highest level of security.
