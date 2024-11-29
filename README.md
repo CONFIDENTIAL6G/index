@@ -54,5 +54,6 @@ This repository provides the source code of Aloha-HE, a hardware accelerator for
 Streams is a protocol that facilitates the use of decentralized identities and the exchange of encrypted messages over the IOTA Tangle. It allows for the creation of secure communication channels, enabling authenticated and private data sharing between multiple parties.
 
 - [Repository](https://github.com/ZentrixLab/streams-v2)
-**Partner**: [ZEN](https://zentrixlab.com/)
+
+**Partner**: [Zentrix](https://zentrixlab.com/)
 
